@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507275897466",
+    "firebase_url": "https://octavemusic-7aff3.firebaseio.com",
+    "project_id": "octavemusic-7aff3",
+    "storage_bucket": "octavemusic-7aff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507275897466:android:47a3a478b402d212",
+        "android_client_info": {
+          "package_name": "com.example.octave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507275897466-t9eb4m2730o4q8vq9carrn70269udoin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.octave",
+            "certificate_hash": "97bdaf93d2221f9745149cebf6c025030123161d"
+          }
+        },
+        {
+          "client_id": "507275897466-sgaavnj96de8vgkoak5sdtmbv3lc5e1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFq471dz9VyWTnigrThSQzNMo7GujL23w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507275897466-sgaavnj96de8vgkoak5sdtmbv3lc5e1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
